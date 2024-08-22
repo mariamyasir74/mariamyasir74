@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mariamyasir74
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning c++, python and AI
+- 👀 I’m interested in AI
+- 🌱 I’m currently learning Python and C++ 
 
 <!---
 mariamyasir74/mariamyasir74 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
