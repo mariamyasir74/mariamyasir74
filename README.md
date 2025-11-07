@@ -87,6 +87,14 @@
 
 > "الذكاء الاصطناعي لا يهدف فقط إلى الأتمتة، بل إلى **تعزيز الذكاء البشري**."
 
+---
+
+<div align="center">
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=FFD700&height=100&section=footer)
+
+</div>
+
 <!---
 mariamyasir74/mariamyasir74 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
