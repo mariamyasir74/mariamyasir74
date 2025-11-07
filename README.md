@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Mariam 👋</h1>
 
 <p align="center">
-  <b>AI Engineer | Machine Learning Developer | Computer Vision Enthusiast</b>
+  <b>Computer Engineer| AI/ML Engineer | Data Scientist | MLOps</b>
 </p>
 
 ---
@@ -9,7 +9,7 @@
 ### 🚀 About Me
 
 I’m a passionate **AI Engineer** focused on building intelligent systems that make a real-world impact.  
-My experience combines **machine learning**, **computer vision**, and **edge AI (Raspberry Pi projects)**.  
+My experience combines **machine learning**, **computer vision**, **NLP**, and **edge AI (Raspberry Pi projects)**.  
 I enjoy transforming ideas into powerful, scalable AI applications — from research to deployment.
 
 - 🎓 Skilled in **Python, C++, TensorFlow, PyTorch, OpenCV**
@@ -32,7 +32,7 @@ I enjoy transforming ideas into powerful, scalable AI applications — from rese
 `NumPy` `pandas` `Matplotlib` `FAISS`
 
 **Edge & Deployment:**  
-`Raspberry Pi` `Flask` `FastAPI` `Docker`
+`Raspberry Pi` `Streamlit` `FastAPI` `Docker`
 
 **Other Tools:**  
 `Git` `VS Code` `Google Colab` `Jupyter Notebook`
