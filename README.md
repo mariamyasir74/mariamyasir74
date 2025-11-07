@@ -1,7 +1,7 @@
 <h1 align="center">مرحباً 👋 أنا مريم ياسر</h1>
 
 <p align="center">
-  <b>مهندسة ذكاء اصطناعي | مطوّرة تعلم آلي | متخصصة في الرؤية الحاسوبية</b>
+  <b>مهندسة ذكاء اصطناعي | مطوّرة تعلم آلي | متخصصة في الرؤية الحاسوبية ومعالجة اللغات الطبيعية</b>
 </p>
 
 ---
@@ -9,7 +9,7 @@
 ### 🚀 من أنا
 
 أنا **مهندسة ذكاء اصطناعي** شغوفة ببناء الأنظمة الذكية التي تُحدث فرقاً في حياة الناس.  
-أعمل على تطوير حلول تجمع بين **التعلم الآلي، والرؤية الحاسوبية، والذكاء الاصطناعي المدمج (Edge AI)** باستخدام أجهزة مثل **Raspberry Pi**.  
+أعمل على تطوير حلول تجمع بين **التعلم الآلي، والرؤية الحاسوبية، ومعالجة اللغات الطبيعية، والذكاء الاصطناعي المدمج (Edge AI)** باستخدام أجهزة مثل **Raspberry Pi**.  
 أحب تحويل الأفكار إلى تطبيقات واقعية تعتمد على الذكاء الاصطناعي من الفكرة إلى النشر.
 
 - 🎯 ماهرة في **Python، C++، TensorFlow، PyTorch، OpenCV**
@@ -43,10 +43,9 @@
 
 | المشروع | الوصف | التقنيات |
 |----------|--------|-----------|
-| 🕶️ **نظارات المساعدة لضعاف البصر** | نظارات ذكية لذوي الإعاقة البصرية تعتمد على الذكاء الاصطناعي للتعرف على الوجوه، والتنبيه عن بعد، والتعرف على العملات. | `Python`, `OpenCV`, `ResNet50`, `Raspberry Pi` |
-| 🧩 **Maher AI Brain** | نظام محادثة ذكي يعتمد على الذاكرة المستمرة ودمج LangGraph. | `LangGraph`, `RAG`, `Ollama` |
-| 🧠 **Smart Conversation Starter** | مساعد ذكي موجه للموظفين يعتمد على RAG وتخصيص الأسئلة حسب الوظيفة. | `RAG`, `LLM`, `pandas` |
-| 🦺 **تطبيق HSE الذكي** | نظام رؤية حاسوبية لاكتشاف معدات السلامة (خوذة، قفازات، نظارات). | `YOLO`, `Computer Vision`, `PyTorch` |
+| 🕶️ **نظارات المساعدة لضعاف البصر** | نظارات ذكية لذوي الإعاقة البصرية تعتمد على الذكاء الاصطناعي للتعرف على الوجوه، والتنبيه عن بعد، والتعرف على العملات. | `Python`, `OpenCV`, `YOLO`, `ResNet50`, `Raspberry Pi` |
+| 🎭 **Sentiment Analyzer** | نظام متكامل يحدد شعور الشخص من كتابته. | `Transformer`, `RAG`, `Streamlit` |
+| 💳 **Credit Card Fraud Detector** | نظام يكشف المعاملات البنكيه المشبوهة. | `ML`, `EDA`, `Streamlit` |
 
 ---
 
@@ -62,9 +61,9 @@
 ### 📫 تواصلي معي
 
 <p align="center">
-  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/البريد%20الإلكتروني-تواصلي%20معي-blue?style=flat-square&logo=gmail"></a>
-  <a href="https://www.linkedin.com/in/yourlinkedin/"><img src="https://img.shields.io/badge/LinkedIn-ملفي%20الشخصي-blue?style=flat-square&logo=linkedin"></a>
-  <a href="https://github.com/yourusername"><img src="https://img.shields.io/badge/GitHub-صفحتي-black?style=flat-square&logo=github"></a>
+  <a href="mailto: mariamyasir2002@gmail.com"><img src="https://img.shields.io/badge/البريد%20الإلكتروني-تواصلي%20معي-blue?style=flat-square&logo=gmail"></a>
+  <a href="https://www.linkedin.com/in/mariam-yasir-b1b69b199/"><img src="https://img.shields.io/badge/LinkedIn-ملفي%20الشخصي-blue?style=flat-square&logo=linkedin"></a>
+  <a href="https://github.com/mariamyasir74"><img src="https://img.shields.io/badge/GitHub-صفحتي-black?style=flat-square&logo=github"></a>
 </p>
 
 ---
@@ -72,8 +71,8 @@
 ### ⚙️ إحصاءات GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" height="150">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight" height="150">
+  <img src="https://github-readme-stats.vercel.app/api?username=mariamyasir74&show_icons=true&theme=tokyonight" height="150">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariamyasir74&layout=compact&theme=tokyonight" height="150">
 </p>
 
 ---
