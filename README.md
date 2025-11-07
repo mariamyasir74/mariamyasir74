@@ -32,7 +32,7 @@
 `NumPy` `pandas` `Matplotlib` `FAISS`
 
 **الذكاء الصناعي المدمج والنشر:**  
-`Raspberry Pi` `Flask` `FastAPI` `Docker`
+`Raspberry Pi` `Streamlit` `FastAPI` `Docker`
 
 **أدوات أخرى:**  
 `Git` `VS Code` `Google Colab` `Jupyter Notebook`
