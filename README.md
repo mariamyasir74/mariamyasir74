@@ -72,7 +72,7 @@ I enjoy transforming ideas into powerful, scalable AI applications — from rese
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" height="150">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight" height="150">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariamyasir74&layout=compact&theme=tokyonight" height="150">
 </p>
 
 ---
