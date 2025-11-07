@@ -1,4 +1,3 @@
-<html lang="en">
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width,initial-scale=1" />
@@ -141,7 +140,6 @@
 
   </div>
 </body>
-</html>
 
 <!---
 mariamyasir74/mariamyasir74 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
