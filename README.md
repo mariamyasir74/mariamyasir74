@@ -1,18 +1,4 @@
-<!--
-Animated AI-Themed Header Banner
-Filename: banner.html (contains inline SVG you can save as banner.svg or export as GIF/PNG)
-How to use:
-1. Open this file in a browser to preview.
-2. To use in your GitHub README, export the SVG portion to banner.svg and commit it to your repo, then reference it in README.md like:
-
-   ![Banner](./banner.svg)
-
-3. If you prefer a GIF, open the HTML in a browser, use a screen-recording tool (or a browser extension) to capture the animation and save as GIF. Upload the GIF to your repo and reference it.
-
-Customization:
-- Change the text (currently "Mariam Yasir") by editing the <text> element with id="name".
-- Adjust colors by editing the gradient stops and CSS variables.
---><!doctype html>
+<!doctype html>
 
 <html lang="en">
 <head>
