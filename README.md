@@ -4,7 +4,7 @@
 -->
 
 <h1 align="center">
-  <span style="color:#FFD700;">⚡ السلام عليكم، أنا مريم ياسر ⚡</span>
+  <span style="color:#FFD700;">السلام عليكم، أنا مريم ياسر</span>
 </h1>
 
 <p align="center">
