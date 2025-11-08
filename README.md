@@ -79,8 +79,8 @@
 ### ⚙️ <span style="color:#FFD700;">إحصاءات GitHub</span>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=vision-friendly-dark&title_color=FFD700&icon_color=FFD700&text_color=ffffff&bg_color=000000" height="160">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=vision-friendly-dark&title_color=FFD700&text_color=ffffff&bg_color=000000" height="160">
+  <img src="https://github-readme-stats.vercel.app/api?username=mariamyasir74 &show_icons=true&theme=vision-friendly-dark&title_color=FFD700&icon_color=FFD700&text_color=ffffff&bg_color=000000" height="160">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariamyasir74 &layout=compact&theme=vision-friendly-dark&title_color=FFD700&text_color=ffffff&bg_color=000000" height="160">
 </p>
 
 ---
