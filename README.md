@@ -42,7 +42,7 @@
 | **لغات البرمجة** | `Python` `C++` `SQL` `Bash` |
 | **أطر الذكاء الاصطناعي** | `TensorFlow` `PyTorch` `Scikit-learn` `OpenCV` `LangChain` `LangGraph` |
 | **تحليل البيانات** | `NumPy` `pandas` `Matplotlib` `FAISS` |
-| **النشر والتكامل** | `Raspberry Pi` `Flask` `FastAPI` `Docker` |
+| **النشر والتكامل** | `Raspberry Pi` `Streamlit` `FastAPI` `Docker` |
 | **أدوات عامة** | `Git` `VS Code` `Google Colab` `Jupyter Notebook` |
 
 ---
