@@ -15,7 +15,7 @@
 
 <div align="center">
 
-![banner](https://capsule-render.vercel.app/api?type=waving&color=FFD700&height=150&section=header&text=AI%20Engineer%20&fontColor=000000&fontAlignY=35&animation=fadeIn)
+![banner](https://capsule-render.vercel.app/api?type=waving&color=FFD700&height=150&section=header&text=AI%20Engineer&fontColor=000000&fontAlignY=35&animation=fadeIn)
 
 </div>
 
