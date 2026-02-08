@@ -66,10 +66,10 @@
 
 ---
 
-### ✉️ <span style="color:#FFD700;">تواصلي معي</span>
+### ✉️ <span style="color:#FFD700;">تواصلوا معي</span>
 
 <p align="center">
-  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/📬%20Mail-FFD700?style=for-the-badge&logo=gmail&logoColor=000000"></a>
+  <a href="mailto:mariamyasir2002@gmail.com"><img src="https://img.shields.io/badge/📬%20Mail-FFD700?style=for-the-badge&logo=gmail&logoColor=000000"></a>
   <a href="https://www.linkedin.com/in/yourlinkedin/"><img src="https://img.shields.io/badge/💼%20LinkedIn-FFD700?style=for-the-badge&logo=linkedin&logoColor=000000"></a>
   <a href="https://github.com/yourusername"><img src="https://img.shields.io/badge/💻%20GitHub-FFD700?style=for-the-badge&logo=github&logoColor=000000"></a>
 </p>
